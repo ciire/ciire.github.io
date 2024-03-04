@@ -34,11 +34,10 @@ You need to create a GitHub account. You must have a resume written in markdown.
 
 	
 ## More Resources
-Below is a resource to get you started with Markdown. It covers simple and useful Markdown syntax.
-[https://www.youtube.com/watch?v=_PPWWRV6gbA](https://www.youtube.com/watch?v=qhoXn4bIE1s)
+[Here](https://www.youtube.com/watch?v=qhoXn4bIE1s) is a resource to get you started with Markdown. It covers simple and useful Markdown syntax.
 
-Below is a resource that expands on how to create a static site in GitHub Pages
-https://www.youtube.com/watch?v=g6AJ9qPPoyc
+[Here](https://www.youtube.com/watch?v=g6AJ9qPPoyc) is a resource that expands on how to create a static site in GitHub Pages.
+
 
 
 ## Authors and Acknowledgment
