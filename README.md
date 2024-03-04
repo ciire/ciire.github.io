@@ -15,7 +15,7 @@ You need to create a GitHub account. You must have a resume written in markdown.
 3. Commit to the repository
 ### Uploading your resume to github
 4. Click “Add a file”
-5. Click “upload files
+5. Click “upload files"
 6. Choose the resume markdown file to add and commit changes
 ### Host resume on GitHub Pages (static site generator)
 7. Click on your resume file
@@ -27,12 +27,18 @@ You need to create a GitHub account. You must have a resume written in markdown.
      * Wait until the website has been built before trying to access it
 12. Enter the website username.github.io to view your resume
 ### Styling
-13. 
+13. Find a Jekyll style you want to implement on github
+14. Fork the repository by clicking on the fork button
+     * Rename the repository to yourusername.github.io
+     * A _config.yml file should be seen in your repository. This is the file that styles your resume and any changes made to the style can be done there.
 
 	
 ## More Resources
-Below is a resource to get you started with Markdown 
-https://www.youtube.com/watch?v=_PPWWRV6gbA
+Below is a resource to get you started with Markdown. It covers simple and useful Markdown syntax.
+[https://www.youtube.com/watch?v=_PPWWRV6gbA](https://www.youtube.com/watch?v=qhoXn4bIE1s)
+
+Below is a resource that expands on how to create a static site in GitHub Pages
+https://www.youtube.com/watch?v=g6AJ9qPPoyc
 
 
 ## Authors and Acknowledgment
