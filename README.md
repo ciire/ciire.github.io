@@ -10,7 +10,7 @@ You need to create a GitHub account. You must have a resume written in markdown.
 ### Setting up a Repository
 1. Click the green “new” button to create a new repository
 2. Fill out the form
-* Write your repository name as the same name as your Github username.
+  * Write your repository name as the same name as your Github username.
 3. Commit to the repository
 ### Uploading your resume to github
 4. Click “Add a file”
@@ -23,7 +23,7 @@ You need to create a GitHub account. You must have a resume written in markdown.
 10. Commit Changes
 ### Viewing your hosted resume in your user repository
 11. Click on action
-* Wait until the website has been built before trying to access it
+  * Wait until the website has been built before trying to access it
 12. Enter the website username.github.io to view your resume
 
 	
@@ -35,7 +35,12 @@ https://www.youtube.com/watch?v=_PPWWRV6gbA
 ## Authors and Acknowledgment
 
 ## FAQs
+### Why is my resume not showing up when I search username.github.io?
 
+Your resume not showing up may be due to the fact that your repository name is not the same as your username for Github. To fix this, you can change your repository name to match your username. Another common issue is if you have not changed your resume markdown file to index.md. Alternatively, you may have tried to open your resume before the website has finished building. If this is the case, a solution is to check the actions tab and the progress of building the static website is stated. If you see a green dot, then the process has finished and your resume is available to be read.
+
+### Why is Markdown better than Word Processor
+Markdown is better than word processor because it creates documentation in a flexible way, being able to be opened using any application compared to Word Processor that needs to be opened as a PDF. PDFs are more suited for short term use. Documentation is more suited towards living online and thus would use Markdown over PDF as Markdown is highly portable compared to Word. 
 
 
 ## License
