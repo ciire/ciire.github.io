@@ -1,16 +1,16 @@
 # Hosting your Resume on Github Pages
 
 ## Purpose
-* The purpose is to provide steps on how to host and format your resume. The steps will reference and connect to the general principles of current technical writing as explained by Andrew Etter in “Modern Technical Writing”.
+The purpose is to provide steps on how to host and format your resume. The steps will reference and connect to the general principles of current technical writing as explained by Andrew Etter in “Modern Technical Writing”.
 
 ## Prerequisite
-* You need to create a GitHub account. You must have a resume written in markdown. There is a markdown tutorial to help you get started in the More Resources section. 
+You need to create a GitHub account. You must have a resume written in markdown. There is a markdown tutorial to help you get started in the More Resources section. 
 
 ## Instructions
 ### Setting up a Repository
 1. Click the green “new” button to create a new repository
 2. Fill out the form
-a. Write your repository name as the same name as your Github username.
+* Write your repository name as the same name as your Github username.
 3. Commit to the repository
 ### Uploading your resume to github
 4. Click “Add a file”
@@ -23,12 +23,12 @@ a. Write your repository name as the same name as your Github username.
 10. Commit Changes
 ### Viewing your hosted resume in your user repository
 11. Click on action
-a. Wait until the website has been built before trying to access it
+* Wait until the website has been built before trying to access it
 12. Enter the website username.github.io to view your resume
 
 	
 ## More Resources
-A markdown 
+Below is a resource to get you started with Markdown 
 https://www.youtube.com/watch?v=_PPWWRV6gbA
 
 
