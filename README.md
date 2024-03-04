@@ -1,36 +1,42 @@
-# Foobar
+# Hosting your Resume on Github Pages
 
-Foobar is a Python library for dealing with word pluralization.
+## Purpose
+* The purpose is to provide steps on how to host and format your resume. The steps will reference and connect to the general principles of current technical writing as explained by Andrew Etter in “Modern Technical Writing”.
 
-## Installation
+## Prerequisite
+* You need to create a GitHub account. You must have a resume written in markdown. There is a markdown tutorial to help you get started in the More Resources section. 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Instructions
+### Setting up a Repository
+1. Click the green “new” button to create a new repository
+2. Fill out the form
+a. Write your repository name as the same name as your Github username.
+3. Commit to the repository
+### Uploading your resume to github
+4. Click “Add a file”
+5. Click “upload files
+6. Choose the resume markdown file to add and commit changes
+### Host resume on GitHub Pages (static site generator)
+7. Click on your resume file
+8. Click on the pencil icon “edit this file”
+9. Rename your resume to index.md
+10. Commit Changes
+### Viewing your hosted resume in your user repository
+11. Click on action
+a. Wait until the website has been built before trying to access it
+12. Enter the website username.github.io to view your resume
 
-```bash
-pip install foobar
-```
+	
+## More Resources
+A markdown 
+https://www.youtube.com/watch?v=_PPWWRV6gbA
 
-## Usage
 
-```python
-import foobar
+## Authors and Acknowledgment
 
-# returns 'words'
-foobar.pluralize('word')
+## FAQs
 
-# returns 'geese'
-foobar.pluralize('goose')
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
