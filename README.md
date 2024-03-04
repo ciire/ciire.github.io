@@ -9,7 +9,7 @@ You need to create a GitHub account. You must have a resume written in markdown.
 ## Instructions
 ### Setting up a Repository
 1. Click the green “new” button to create a new repository
-2. **Fill out the form**
+2. Fill out the form
    * Write your repository name as the same name as your Github username.
 3. Commit to the repository
 ### Uploading your resume to github
