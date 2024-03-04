@@ -11,7 +11,8 @@ You need to create a GitHub account. You must have a resume written in markdown.
 1. Click the green “new” button to create a new repository
 2. Fill out the form
      * Write your repository name as the same name as your Github username.
-4. Commit to the repository
+     * Set as public so others can see your resume
+3. Commit to the repository
 ### Uploading your resume to github
 4. Click “Add a file”
 5. Click “upload files
@@ -25,6 +26,8 @@ You need to create a GitHub account. You must have a resume written in markdown.
 11. Click on action
      * Wait until the website has been built before trying to access it
 12. Enter the website username.github.io to view your resume
+### Styling
+13. 
 
 	
 ## More Resources
