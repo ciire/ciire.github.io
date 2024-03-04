@@ -22,6 +22,9 @@ You need to create a GitHub account. You must have a resume written in markdown.
 9. Rename your resume to index.md
 10. Commit Changes
 ### Viewing your hosted resume in your user repository
+11. **Click on action**
+
+  * Wait until the website has been built before trying to access it
 11. Click on action
    * Wait until the website has been built before trying to access it
 12. Enter the website username.github.io to view your resume
