@@ -18,8 +18,10 @@
     * SQL
  
 ## Contacts
+
 ### Email
 * chueric9@gmail.com
+
 ### Phone Number
 * (204) 261-7036
 
