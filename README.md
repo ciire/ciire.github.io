@@ -45,10 +45,29 @@ You must have a resume written in markdown. There is a markdown tutorial to help
      * By creating this website, we are making use of a static site generator. Etter is a huge advocate for static site generators in his "Modern Technical Writing". Static site generators are quick to use as they don't have much to set up. There is nothing to install and no server side dependencies required. All you need to create a website with static site generators is lightweight markup for the main content and some HTML and CSS for the theme and asethetics.
 ### Creating a GIF
 28. Search [Giphy](https://giphy.com/).
-29. Click the purple create button.
-30. Click choose file
-31. Select the video that you want to turn into a GIF
-32. 
+29. Click the log in button on the top right corner.
+30. Click Sign up.
+31. Fill out the form.
+32. Click Sign up.
+33. Go to the email that you used to sign up for the Giphy account.
+34. Look for the code Giphy sent you.
+35. Enter the code in Giphy.
+36. Login with the newly created Giphy account.
+37. Click the purple create button.
+38. Slide the start 
+39. Click choose file
+40. Select the video that you want to turn into a GIF
+41. Slide the left bar under timeline to the time you want to start the GIF.
+42. Slide the right bar to the time you want to end the GIF.
+43. Click "Continue to Create" button on the bottom.
+44. Click the black "Download" button on the bottom.
+### Posting the GIF in your Resume
+45. Go back to your Github repository by searching https://github.com/yourUsername/yourUsername.github.io where yourUsername is your own github username.
+46. Click your index.md file.
+47. Click the edit pencil option in the top right.
+48. Open your files to find the GIF that you want to add to your resume.
+49. Drag and drop the GIF into where you want it to appear in your resume
+![giphy](https://github.com/ciire/ciire.github.io/assets/18106779/5cb7bd4b-c432-432c-be80-aa15da12a159)
 
 
 	
