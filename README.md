@@ -4,7 +4,7 @@
 The purpose is to provide steps on how to host and format your resume. The steps will reference and connect to the general principles of current technical writing as explained by Andrew Etter in “Modern Technical Writing”.
 
 ## Prerequisite
-You must have a resume written in markdown. There is a markdown tutorial to help you get started in the More Resources section. Download 
+You must have a resume written in markdown. There is a markdown tutorial to help you get started in the More Resources section. Have a video that you want to turn into a GIF.
 
 ## Instructions
 ### Creating a Github account
@@ -39,12 +39,16 @@ You must have a resume written in markdown. There is a markdown tutorial to help
 24. Rename your resume to index.md.
 25. Click on commit changes on the top right.
 ### Viewing your hosted resume in your user repository
-26. Click on action
+26. Click on action.
      * Wait until the "pages build and delpoyment" yellow circle turns into a green checkmark.
 27. Enter the website username.github.io to view your resume.
      * By creating this website, we are making use of a static site generator. Etter is a huge advocate for static site generators in his "Modern Technical Writing". Static site generators are quick to use as they don't have much to set up. There is nothing to install and no server side dependencies required. All you need to create a website with static site generators is lightweight markup for the main content and some HTML and CSS for the theme and asethetics.
-### Posting a GIF
-28. 
+### Creating a GIF
+28. Search [Giphy](https://giphy.com/).
+29. Click the purple create button.
+30. Click choose file
+31. Select the video that you want to turn into a GIF
+32. 
 
 
 	
