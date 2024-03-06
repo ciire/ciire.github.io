@@ -67,6 +67,7 @@ You must have a resume written in markdown. There is a markdown tutorial to help
 47. Click the edit pencil option in the top right.
 48. Open your files to find the GIF that you want to add to your resume.
 49. Drag and drop the GIF into where you want it to appear in your resume
+
 ![giphy](https://github.com/ciire/ciire.github.io/assets/18106779/5cb7bd4b-c432-432c-be80-aa15da12a159)
 
 
