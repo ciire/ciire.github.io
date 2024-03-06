@@ -23,7 +23,7 @@ You must have a resume written in markdown. There is a markdown tutorial to help
 13. Click "skip personalization" in the bottom center of the page.
 ### Getting a Theme and Setting up Repository
 14. Search https://github.com/daattail/beautiful-jekyll.
-15. Click fork on the top right beside watch.
+15. Click "Fork" on the top right.
 16. Rename the repository name to your github username.github.io.
 17. Click the green Create Fork button in the bottom right corner.
      * By forking other repositories we are practicing features tied with Distributed Version Control mentioned in Etter's "Modern Technical Writing". Git provides features such as forking which incentivizes collaboration. Developers can contribute without needing direct access to the original repository. Multiple people can work on the same file effectively without there being constant issues about concurrency. People can create their own branches of code on the same project and work in parallel.
@@ -40,9 +40,9 @@ You must have a resume written in markdown. There is a markdown tutorial to help
 25. Click on commit changes on the top right.
 ### Viewing your hosted resume in your user repository
 26. Click on action.
-     * Wait until the "pages build and delpoyment" yellow circle turns into a green checkmark.
+     * Wait until the "pages build and deployment" yellow circle turns into a green checkmark.
 27. Enter the website username.github.io to view your resume.
-     * By creating this website, we are making use of a static site generator. Etter is a huge advocate for static site generators in his "Modern Technical Writing". Static site generators are quick to use as they don't have much to set up. There is nothing to install and no server side dependencies required. All you need to create a website with static site generators is lightweight markup for the main content and some HTML and CSS for the theme and asethetics.
+     * By creating this website, we are making use of a static site generator. Etter is a huge advocate for static site generators in his "Modern Technical Writing". Static site generators are quick to use as they don't have much to set up. There is nothing to install and no server side dependencies required. All you need to create a website with static site generators is lightweight markup for the main content and some HTML and CSS for the theme and aesthetics.
 ### Creating a GIF
 28. Search [Giphy](https://giphy.com/).
 29. Click the log in button on the top right corner.
@@ -57,9 +57,9 @@ You must have a resume written in markdown. There is a markdown tutorial to help
 38. Slide the start 
 39. Click choose file
 40. Select the video that you want to turn into a GIF
-41. Slide the left bar under timeline to the time you want to start the GIF.
+41. Slide the left bar to the time you want to start the GIF.
 42. Slide the right bar to the time you want to end the GIF.
-43. Click "Continue to Create" button on the bottom.
+43. Click the "Continue to Create" button on the bottom.
 44. Click the black "Download" button on the bottom.
 ### Posting the GIF in your Resume
 45. Go back to your Github repository by searching https://github.com/yourUsername/yourUsername.github.io where yourUsername is your own github username.
@@ -77,14 +77,16 @@ You must have a resume written in markdown. There is a markdown tutorial to help
 
 [Here](https://www.youtube.com/watch?v=g6AJ9qPPoyc) is a resource that expands on how to create a static site in GitHub Pages.
 
-[Here](https://www.youtube.com/watch?v=Gn3w1UvTx0A) is a resource that walksthrough creating an account if you are still having difficulties with it. 
+[Here](https://www.youtube.com/watch?v=Gn3w1UvTx0A) is a resource that walks through creating an account if you are still having difficulties with it. 
 
 [Here](https://www.youtube.com/watch?v=CTqqvaVKAJU&t=4s) is a resource that explores how to use the built in Jekyll themes in Github.
 
 
 
+
+
 ## Authors and Acknowledgment
-Special thanks to dattail for the theme and Ryan Mack and Barbara Guzman Romero for peer reviewing the readme.
+Special thanks to Dattail for the theme and Ryan Mack and Barbara Guzman Romero for peer reviewing the readme.
 
 ## FAQs
 ### Why can I not fork a theme into my repository?
@@ -92,7 +94,7 @@ Special thanks to dattail for the theme and Ryan Mack and Barbara Guzman Romero 
 If you are having trouble forking a theme into your repository, it may be because you already have an existing repository of the same name. This can be resolved by deleting the existing repository that you have. Then you can fork the theme into your github account without having a duplicate repository already existing with the same name.
 
 ### Why is Markdown better than Word Processor
-Markdown is better than word processor because it creates documentation in a flexible way, being able to be opened using any application compared to Word Processor that needs to be opened as a PDF. PDFs are more suited for short term use. Documentation is more suited towards living online and thus would use Markdown over PDF as Markdown is highly portable compared to Word. 
+Markdown is better than word processors because it creates documentation in a flexible way, being able to be opened using any application compared to Word Processor that needs to be opened as a PDF. PDFs are more suited for short term use. Documentation is more suited towards living online and thus would use Markdown over PDF as Markdown is highly portable compared to Word. 
 
 
 ## License
